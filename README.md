@@ -1,2 +1,2 @@
-# Mi-sitio2
+# Mi-sitio
 Proyecto final de producción multimedia 
